@@ -1,7 +1,5 @@
 # Dynamic-Website-Data-Extraction
-====================================================================
-               CES Exhibitor Gallery Scraper - Documentation
-====================================================================
+
 
 Project Title: Selenium Web Scraper for CES Exhibitor Gallery
 Developed by: Smaron Biswas
